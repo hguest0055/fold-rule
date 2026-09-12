@@ -4,7 +4,7 @@
   "description": "Physically accurate on-screen ruler calibrated to the Pixel 10 Pro Fold cover and inner panels.",
   "start_url": "./index.html",
   "scope": "./",
-  "id": "/foldrule/",
+  "id": "./",
   "display": "fullscreen",
   "display_override": ["fullscreen", "standalone"],
   "orientation": "portrait-primary",

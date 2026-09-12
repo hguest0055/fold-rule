@@ -1,0 +1,21 @@
+{
+  "name": "Fold Rule — Pixel 10 Pro Fold",
+  "short_name": "Fold Rule",
+  "description": "Physically accurate on-screen ruler calibrated to the Pixel 10 Pro Fold cover and inner panels.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "/foldrule/",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "portrait-primary",
+  "background_color": "#E9ECEE",
+  "theme_color": "#E9ECEE",
+  "shortcuts": [
+    { "name": "AR measure", "short_name": "AR", "url": "./ar.html", "icons": [{ "src": "icon-192.png", "sizes": "192x192" }] }
+  ],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
